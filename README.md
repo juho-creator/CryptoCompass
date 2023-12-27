@@ -4,6 +4,7 @@ All in one App to guide crypto investors
 
 
 # News or source links 
+- **Coin360 :** https://coin360.com/
 - **공포탐욕지수(외국) :** https://alternative.me/crypto/fear-and-greed-index/ 
 - **공포탐욕지수(한국) :**  https://www.ubcindex.com/feargreed 
 - **Bull and Bear Index:** https://www.augmento.ai/bitcoin-sentiment/ 
