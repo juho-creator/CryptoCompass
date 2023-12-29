@@ -1,6 +1,9 @@
 # CryptoCompass
 All in one App to guide crypto investors
 
+# For any inquries, please contact me via Email
+Email : kjuho2021@gmail.com
+
 
 
 # News or source links 
@@ -23,4 +26,7 @@ All in one App to guide crypto investors
 
 - **CNBC 뉴스 :** https://www.cnbc.com/cryptoworld/ 
 - **Coindesk :** https://www.coindesk.com/ 
-- **코인데스크 코리아 :** https://www.coindeskkorea.com/#google_vignette 
+- **코인데스크 코리아 :** https://www.coindeskkorea.com/#google_vignette
+
+
+
