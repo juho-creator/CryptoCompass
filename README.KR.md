@@ -9,7 +9,7 @@ Crypto Compass는 암호화폐 투자자를 안내하기 위한 올인원 앱으
 - 최신 암호화폐 뉴스
 - 매매일지 작성
 
-Crypto Compass를 다운로드하려면 [여기를 클릭하세요](https://play.google.com/store/apps/details?id=com.juhooray.crypto_analysis&hl=en_US).
+**Crypto Compass를 다운로드하려면 [여기를 클릭하세요](https://play.google.com/store/apps/details?id=com.juhooray.crypto_analysis&hl=en_US).**
 
 ## 시연 영상
 [![데모 비디오 시청](https://i3.ytimg.com/vi/575KOHgtoUw/maxresdefault.jpg)](https://www.youtube.com/watch?v=575KOHgtoUw)
@@ -18,6 +18,7 @@ Crypto Compass를 다운로드하려면 [여기를 클릭하세요](https://play
 질문이 있으시면 이메일로 문의해주세요: kjuho2021@gmail.com
 
 ## 뉴스 및 자료 링크
+Crypto Compass에서 제공된 모든 정보는 아래의 링크에서 가져왔습니다: 
 - **Coin360:** [coin360.com](https://coin360.com/)
 - **공포와 욕망 지수 (국제):** [alternative.me/crypto/fear-and-greed-index/](https://alternative.me/crypto/fear-and-greed-index/)
 - **공포와 욕망 지수 (한국):** [ubcindex.com/feargreed](https://www.ubcindex.com/feargreed)
