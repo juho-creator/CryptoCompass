@@ -13,11 +13,17 @@ CryptoCompass is an all-in-one app designed to guide crypto investors. It offers
 
 **To download CryptoCompass, [click here](https://play.google.com/store/apps/details?id=com.juhooray.crypto_analysis&hl=en_US).**
 
+<br />
+
 ## Demonstration Video
 [![Watch the Demonstration Video](https://i3.ytimg.com/vi/575KOHgtoUw/maxresdefault.jpg)](https://www.youtube.com/watch?v=575KOHgtoUw)
 
+<br />
+
 ## Contact Information
 For any inquiries, please contact via email: kjuho2021@gmail.com
+
+<br />
 
 ## News and Source Links
 All information provided by Crypto Compass is sourced from the following links:
