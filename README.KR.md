@@ -11,11 +11,17 @@ Crypto Compass는 암호화폐 투자자를 안내하기 위한 올인원 앱으
 
 **Crypto Compass를 다운로드하려면 [여기를 클릭하세요](https://play.google.com/store/apps/details?id=com.juhooray.crypto_analysis&hl=en_US).**
 
+<br />
+
 ## 시연 영상
 [![데모 비디오 시청](https://i3.ytimg.com/vi/575KOHgtoUw/maxresdefault.jpg)](https://www.youtube.com/watch?v=575KOHgtoUw)
 
+<br />
+
 ## 문의하기
 질문이 있으시면 이메일로 문의해주세요: kjuho2021@gmail.com
+
+<br />
 
 ## 뉴스 및 자료 링크
 Crypto Compass에서 제공된 모든 정보는 아래의 링크에서 가져왔습니다: 
