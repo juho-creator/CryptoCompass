@@ -1,4 +1,7 @@
-## CryptoCompass
+[![한국어](https://img.shields.io/badge/lang-한국어-red.svg)](https://github.com/juho-creator/CryptoCompass/blob/main/README-KR.md)
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/juho-creator/CryptoCompass/blob/main/README.md)
+
+# CryptoCompass
 
 CryptoCompass is an all-in-one app designed to guide crypto investors. It offers features such as:
 
