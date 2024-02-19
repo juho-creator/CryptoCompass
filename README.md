@@ -1,5 +1,5 @@
-[![한국어](https://img.shields.io/badge/lang-한국어-red.svg)](https://github.com/juho-creator/CryptoCompass/blob/main/README.KR.md)
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/juho-creator/CryptoCompass/blob/main/README.md)
+[![한국어](https://img.shields.io/badge/lang-한국어-red.svg)](https://github.com/juho-creator/CryptoCompass/blob/main/README.KR.md)
 
 # Crypto Compass
 
