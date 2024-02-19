@@ -11,7 +11,7 @@ CryptoCompass is an all-in-one app designed to guide crypto investors. It offers
 - Latest news access
 - Trading journal writing
 
-To download CryptoCompass, [click here](https://play.google.com/store/apps/details?id=com.juhooray.crypto_analysis&hl=en_US).
+**To download CryptoCompass, [click here](https://play.google.com/store/apps/details?id=com.juhooray.crypto_analysis&hl=en_US).**
 
 ## Demonstration Video
 [![Watch the Demonstration Video](https://i3.ytimg.com/vi/575KOHgtoUw/maxresdefault.jpg)](https://www.youtube.com/watch?v=575KOHgtoUw)
@@ -20,6 +20,7 @@ To download CryptoCompass, [click here](https://play.google.com/store/apps/detai
 For any inquiries, please contact via email: kjuho2021@gmail.com
 
 ## News and Source Links
+All information provided by Crypto Compass is sourced from the following links:
 - **Coin360:** [coin360.com](https://coin360.com/)
 - **Fear and Greed Index (International):** [alternative.me/crypto/fear-and-greed-index/](https://alternative.me/crypto/fear-and-greed-index/)
 - **Fear and Greed Index (South Korea):** [ubcindex.com/feargreed](https://www.ubcindex.com/feargreed)
