@@ -1,6 +1,6 @@
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/juho-creator/CryptoCompass/blob/main/README.md)
 
-## Crypto Compass
+# Crypto Compass
 
 Crypto Compass는 암호화폐 투자자를 안내하기 위한 올인원 앱으로, 다음과 같은 기능을 제공합니다:
 - 시장 심리 분석
