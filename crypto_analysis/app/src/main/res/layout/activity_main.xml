@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/menuBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="-4dp"
+            android:layout_marginEnd="6dp"
+            android:text="메뉴" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="70dp"
+            android:text="Crypto Compass"
+            android:textSize="24dp" />
+
+        <WebView
+            android:id="@+id/display"
+            android:layout_width="390dp"
+            android:layout_height="320dp"
+            android:layout_marginTop="50dp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/display"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="40dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+
+                <Button
+                    android:id="@+id/marketSentiment"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="시장심리지수" />
+
+                <Button
+                    android:id="@+id/marketInfo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="실시간 거래소 및 블록체인 정보" />
+
+                <Button
+                    android:id="@+id/marketFlow"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="시장 동향" />
+
+                <Button
+                    android:id="@+id/cryptoNews"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="최신 암호화폐 뉴스" />
+        </LinearLayout>
+
+</RelativeLayout>
