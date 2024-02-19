@@ -1,36 +1,35 @@
-# CryptoCompass
-All in one App to guide crypto investors </br>
+## CryptoCompass
 
-# Demonstration Video
+CryptoCompass is an all-in-one app designed to guide crypto investors. It offers features such as:
+
+- Market sentiment analysis
+- Live Bitcoin transaction lookup
+- Market capital changes inspection
+- Latest news access
+- Trading journal writing
+
+To download CryptoCompass, [click here](https://play.google.com/store/apps/details?id=com.juhooray.crypto_analysis&hl=en_US).
+
+## Demonstration Video
 [![Watch the Demonstration Video](https://i3.ytimg.com/vi/575KOHgtoUw/maxresdefault.jpg)](https://www.youtube.com/watch?v=575KOHgtoUw)
 
+## Contact Information
+For any inquiries, please contact via email: kjuho2021@gmail.com
 
-# For any inquries, please contact me via Email
-Email : kjuho2021@gmail.com
-
-
-
-# News or source links 
-- **Coin360 :** https://coin360.com/
-- **공포탐욕지수(외국) :** https://alternative.me/crypto/fear-and-greed-index/ 
-- **공포탐욕지수(한국) :**  https://www.ubcindex.com/feargreed 
-- **Bull and Bear Index:** https://www.augmento.ai/bitcoin-sentiment/ 
-- **비트코인 변동성 지수 :** https://www.tradingview.com/symbols/BVOL/ 
-
-- **거래소 및 파생상품 동향** : https://app.intotheblock.com/coin/BTC 
-- **실시간 블록체인 정보 :** https://www.blockchain.com/explorer 
-- **거래소 간 시세차이 :** https://kimpga.com/ 
-
-- **코인별 시가총액 :** https://www.tradingview.com/markets/cryptocurrencies/global-charts/ 
-- **다음 비트코인 반감기 :** https://buybitcoinworldwide.com/halving/ 
-- **다음 FOMC 회의 :** https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html 
-- **글로벌 경제 (환율) :** https://www.investing.com/currencies/ 
-- **글로벌 경제 (금리) :** https://www.investing.com/central-banks/ 
-
-
-- **CNBC 뉴스 :** https://www.cnbc.com/cryptoworld/ 
-- **Coindesk :** https://www.coindesk.com/ 
-- **코인데스크 코리아 :** https://www.coindeskkorea.com/#google_vignette
-
-
-
+## News and Source Links
+- **Coin360:** [coin360.com](https://coin360.com/)
+- **Fear and Greed Index (International):** [alternative.me/crypto/fear-and-greed-index/](https://alternative.me/crypto/fear-and-greed-index/)
+- **Fear and Greed Index (South Korea):** [ubcindex.com/feargreed](https://www.ubcindex.com/feargreed)
+- **Bull and Bear Index:** [augmento.ai/bitcoin-sentiment/](https://www.augmento.ai/bitcoin-sentiment/)
+- **Bitcoin Volatility Index:** [tradingview.com/symbols/BVOL/](https://www.tradingview.com/symbols/BVOL/)
+- **Exchange and Derivative Trends:** [intotheblock.com/coin/BTC](https://app.intotheblock.com/coin/BTC)
+- **Real-time Blockchain Information:** [blockchain.com/explorer](https://www.blockchain.com/explorer)
+- **Exchange Rate Differences:** [kimpga.com](https://kimpga.com/)
+- **Coin Market Capitalization:** [tradingview.com/markets/cryptocurrencies/global-charts/](https://www.tradingview.com/markets/cryptocurrencies/global-charts/)
+- **Next Bitcoin Halving:** [buybitcoinworldwide.com/halving/](https://buybitcoinworldwide.com/halving/)
+- **Next FOMC Meeting:** [cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
+- **Global Economy (Exchange Rates):** [investing.com/currencies/](https://www.investing.com/currencies/)
+- **Global Economy (Interest Rates):** [investing.com/central-banks/](https://www.investing.com/central-banks/)
+- **CNBC News:** [cnbc.com/cryptoworld/](https://www.cnbc.com/cryptoworld/)
+- **Coindesk:** [coindesk.com/](https://www.coindesk.com/)
+- **Coindesk Korea:** [coindeskkorea.com](https://www.coindeskkorea.com/#google_vignette)
